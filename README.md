@@ -20,7 +20,7 @@
 {
     "use_proxy": false,  If you are poor and you don't have proxies
     "debug": true,       Only If you have brain
-    "headless": true    Makes browser invisible  
+    "headless": true     Makes browser invisible  
 }
 ```
 -----
