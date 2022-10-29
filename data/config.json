@@ -1,0 +1,5 @@
+{
+    "use_proxy" : false,
+    "debug" : false,
+    "headless" : true
+}
